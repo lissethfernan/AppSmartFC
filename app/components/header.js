@@ -22,16 +22,16 @@ const style = StyleSheet.create({
     menu:{
         width:30,
         height:30,
-        marginTop: 10,
+        marginTop: 10
     },
     statusBar:{
-        marginTop:0,
+        marginTop:20,
         height: 0,
     },
     container:{
-        backgroundColor: '#272D34',
-        padding: 10,
-        flexDirection: 'row'
+        backgroundColor: '#424B5B',
+        flexDirection: 'row',
+        padding: 10
     },
     center:{
         flex: 1,
@@ -44,7 +44,7 @@ const style = StyleSheet.create({
         fontSize: 17,
         fontWeight:"bold",
         marginLeft: 20,
-        marginTop: 10,
+        marginTop: 10
       }
 })
 export default Header;

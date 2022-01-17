@@ -19,6 +19,7 @@ const style = StyleSheet.create({
         height: 0,
     },
     container:{
+    	
         backgroundColor: '#272D34',
         padding: 10,
         flexDirection: 'row'

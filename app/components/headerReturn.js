@@ -29,7 +29,7 @@ const style = StyleSheet.create({
     },
     statusBar:{
         marginTop:0,
-        height: 0,
+        height: 20,
     },
     container:{
         backgroundColor: '#272D34',
